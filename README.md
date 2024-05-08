@@ -1,4 +1,4 @@
-# RC18__23107045
+# RC18_23107045
 This document includes:
       Kmeans code to classify the landuse
       Unet code to extract building boundary + land classification
